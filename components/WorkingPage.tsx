@@ -27,8 +27,6 @@ const WorkingPage = ({ title }: { title: string }) => {
             <button onClick={handleButtonClick}>Normal button</button>
 
             <div>{result}</div>
-
-            <a href='/'>Back to main page</a>
         </div>
     );
 
